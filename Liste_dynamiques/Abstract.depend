@@ -520,8 +520,25 @@
 1554990598 source:c:\users\basti\documents\tp_c_liste_dynamique_sdl\liste_dynamiques\logique.cpp
 	"logique.h"
 
-1557152435 c:\users\basti\documents\tp_c_liste_dynamique_sdl\liste_dynamiques\logique.h
+1557154234 c:\users\basti\documents\tp_c_liste_dynamique_sdl\liste_dynamiques\logique.h
 	<SDL.h>
 	<stdio.h>
 	<stdlib.h>
+
+1557746622 source:c:\users\basti\documents\tp_c_liste_dynamique_sdl\liste_dynamiques\vue.cpp
+	"vue.h"
+
+1557739807 c:\users\basti\documents\tp_c_liste_dynamique_sdl\liste_dynamiques\vue.h
+	"logique.h"
+
+1557746520 source:c:\users\basti\documents\tp_c_liste_dynamique_sdl\liste_dynamiques\donnee.cpp
+	"donnee.h"
+
+1557746668 c:\users\basti\documents\tp_c_liste_dynamique_sdl\liste_dynamiques\donnee.h
+	"logique.h"
+
+1557746520 source:c:\users\basti\documents\tp_c_liste_dynamique_sdl\liste_dynamiques\main.cpp
+	"logique.h"
+	"donnee.h"
+	"vue.h"
 

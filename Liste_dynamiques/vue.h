@@ -7,6 +7,6 @@
 //Déclaration des constantes
 
 //Prototype des méthodes
-
+extern void renduListe(SDL_Renderer **renderer, Liste *liste);
 
 #endif // VUE_H_INCLUDED
